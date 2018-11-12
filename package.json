@@ -1,0 +1,32 @@
+{
+  "name": "lesson",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "assert": "^1.4.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "bluebird": "^3.5.1",
+    "jest-cli": "^23.4.2",
+    "jest-json-reporter": "^1.2.2",
+    "jsdom": "^13.0.0",
+    "util": "^0.11.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "testsilent": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.4.2",
+    "jest-expect-message": "^1.0.0",
+    "jest-transform-stub": "^1.0.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/",
+    "testResultsProcessor": "./node_modules/jest-json-reporter",
+    "setupTestFrameworkScriptFile": "jest-expect-message",
+    "moduleNameMapper": {
+      "^.+\\.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2|svg)$": "jest-transform-stub"
+    }
+  }
+}
