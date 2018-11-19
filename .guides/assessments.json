@@ -1,0 +1,275 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2488457068",
+  "source": {
+   "name": "Question #1",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "The difference between margin and padding is that...",
+   "points": "999",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "844986eb-f6bd-6685-8191-f320676d64fc",
+     "correct": false,
+     "answer": "Margin pushes the element from within, padding from outside"
+    },
+    {
+     "_id": "6e214a31-b164-9ff1-5753-f75949af0ce6",
+     "correct": false,
+     "answer": "They are basically the same"
+    },
+    {
+     "_id": "664e8c8b-08fc-b038-9b41-b4ce7182798d",
+     "correct": false,
+     "answer": "Margin makes the element inline, padding doesn’t"
+    },
+    {
+     "_id": "ff73ef3d-71f9-2c86-a918-33a399f4fd6c",
+     "correct": true,
+     "answer": "Margin pushes the element from outside, padding from within"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2916319805",
+  "source": {
+   "name": "Question #2",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "Margin left pushes the element to...",
+   "points": "999",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "b2b1faba-d884-3bc9-601c-edcbbd22b6cf",
+     "correct": false,
+     "answer": "The left"
+    },
+    {
+     "_id": "b29909ae-b165-f2fb-3790-1214f7bb2c5a",
+     "correct": false,
+     "answer": "The right"
+    },
+    {
+     "_id": "b5076cd0-16f7-f5d4-1f54-a40f7ff2bb19",
+     "correct": false,
+     "answer": "Depends on the value given"
+    },
+    {
+     "_id": "0c2d8ba7-0eaa-f229-893f-0155b0159c67",
+     "correct": true,
+     "answer": "Relative to its left, depending on the value given"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1843637977",
+  "source": {
+   "name": "Question #3",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "By default, elements get positioned at the...",
+   "points": "999",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "debd1976-6262-1355-ca25-fe3534a5ceab",
+     "correct": false,
+     "answer": "Top of their parent container"
+    },
+    {
+     "_id": "89e9a3bd-bba4-dbf0-e00c-a0e1ee69f997",
+     "correct": false,
+     "answer": "Left of their parent container"
+    },
+    {
+     "_id": "944175ad-6281-6ccf-ed71-3b8f6ad53e6f",
+     "correct": false,
+     "answer": "Center of their parent container"
+    },
+    {
+     "_id": "090ccc3a-305e-8921-e2de-9459605a124c",
+     "correct": true,
+     "answer": "Top-left of their parent container"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1415634740",
+  "source": {
+   "name": "Question #4",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "The Box Model shows us...",
+   "points": "999",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "9b830431-ed49-8d0b-87d1-b5a8899941de",
+     "correct": true,
+     "answer": "Where, ultimately, the browser positions our elements and how"
+    },
+    {
+     "_id": "ea57c235-1144-d0ad-cde8-f7281b2b6e47",
+     "correct": false,
+     "answer": "Where, initially, the browser positions our elements (before our styling is applied)"
+    },
+    {
+     "_id": "cf9adc22-08d2-7854-d23c-31654b8887e6",
+     "correct": false,
+     "answer": "Where, ultimately, the browser positions parent elements, but not necessarily their children"
+    },
+    {
+     "_id": "1908b651-5c25-e73e-48d7-f0d9ba43fb6c",
+     "correct": false,
+     "answer": "Where, ultimately, the browser positions children elements, but not necessarily their parents"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2077137587",
+  "source": {
+   "name": "Question #5",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "When you write some CSS and it comes out looking wrong, the first thing you should do is",
+   "points": "999",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "05e9bef2-c91a-421b-70c2-ecda2df2343c",
+     "correct": false,
+     "answer": "Check the debugger"
+    },
+    {
+     "_id": "38f69db8-b777-1891-131f-fb413ac2feda",
+     "correct": false,
+     "answer": "Add another few pixels"
+    },
+    {
+     "_id": "31098314-63cc-94ef-8441-be926024cde8",
+     "correct": true,
+     "answer": "Inspect the element and look at the box model"
+    },
+    {
+     "_id": "2495bdf2-1d88-e2f0-6adc-ea01a7f5df91",
+     "correct": false,
+     "answer": "Console log the CSS properties"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-851823654",
+  "source": {
+   "name": "Question #6",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "Absolute positioning...",
+   "points": "999",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "0f333de6-b51f-1418-f303-420101a30dd5",
+     "correct": false,
+     "answer": "Requires a child-parent relationship"
+    },
+    {
+     "_id": "d80259c8-64b6-46a6-927c-c4f8e3e4a716",
+     "correct": false,
+     "answer": "Allows us to use the top, left, right, and bottom properties"
+    },
+    {
+     "_id": "0e7c5083-296f-acb0-d75d-54c4554720a9",
+     "correct": false,
+     "answer": "Takes elements out of the normal flow of elements on the page"
+    },
+    {
+     "_id": "94edc5f7-5731-3846-386a-75fbd3451e18",
+     "correct": true,
+     "answer": "All of the above"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2326443909",
+  "source": {
+   "name": "Question #7",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "When we absolutely position an element...",
+   "points": "999",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "487574ae-b622-eba4-a2d6-4ba2d8b646bc",
+     "correct": false,
+     "answer": "We must verify that its parent has a relative position"
+    },
+    {
+     "_id": "0e224c83-691c-d376-f9c8-962a719317f8",
+     "correct": false,
+     "answer": "We must verify that its parent has an absolute position"
+    },
+    {
+     "_id": "1effda5f-4f50-b44a-5db7-ac7d4ba70fdc",
+     "correct": true,
+     "answer": "We must verify that is parents has a non-static position"
+    },
+    {
+     "_id": "121a0b9b-ab4b-faa4-a678-6bf8c9a4cae2",
+     "correct": false,
+     "answer": "The position of the parent element doesn’t matter"
+    }
+   ]
+  }
+ }
+]

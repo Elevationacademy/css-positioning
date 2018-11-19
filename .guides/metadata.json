@@ -1,0 +1,51 @@
+{
+ "sections": [
+  {
+   "id": "e53d281c-4847-0f1f-e303-1d9cf6bc3443",
+   "title": "CSS Positioning & Box Model",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CSS-Positioning---Box-Model-e53d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "42a87484-6315-6656-7453-7e54dec81bdf",
+   "title": "Exercises",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Exercises-42a8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2755c5fe-52c7-eae5-eb65-398ad699e67b",
+   "title": "Quiz",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Quiz-2755.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false
+}
